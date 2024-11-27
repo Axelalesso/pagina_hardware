@@ -1,0 +1,61 @@
+body{
+  background-color: black;
+}
+.titulo{
+  margin-top: 90px;
+  text-align: center;
+  color: #26d570 ;
+}
+
+.subtitulo{
+  margin-top: 90px;
+  text-align: center;
+  color: #26d570 ;
+
+}
+
+h2{
+  margin-right: 100px;
+  text-align: center;
+  color: #26d570 ;
+}
+
+footer{
+  text-align: center;
+  background-color: #44a86e ;
+}
+
+.card{
+  margin-left: 103px;
+  margin-top: 50px;
+}
+
+.vendidos_2{
+margin-top: 30px;
+
+}
+
+.card-text{
+  text-align: center;
+}
+
+.servicio_tecnico{
+  margin-top: 10px;
+  color: whitesmoke;
+}
+
+.contacto{
+  color: #26d570 ;
+}
+
+.mapa iframe{
+  width: 100%;
+  aspect-ratio: 1.2;
+  }
+
+.visitanos{
+  margin-left: 150px;
+  margin-top: 60px;
+  text-align: center;
+  color: #26d570 ;
+}
